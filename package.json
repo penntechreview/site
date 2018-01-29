@@ -4,6 +4,8 @@
   "description": "Penn Tech Review's API written in ES6.",
   "main": "index.js",
   "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^4.0.0",
     "express": "^4.16.2"
   },
   "devDependencies": {},
