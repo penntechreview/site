@@ -29,6 +29,6 @@ app.listen(process.env.PORT, err => {
   if (err) {
     console.error(err);
   } else {
-    console.info("Peep port %s 🌎", process.env.PORT);
+    console.info("Peep port %s! 🌎", process.env.PORT);
   }
 });
